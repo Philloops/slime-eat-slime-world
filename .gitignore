@@ -1,0 +1,6 @@
+# Ignore .cs.meta files in Scripts folder and its sub-folders
+Scripts/**/*.cs.meta
+
+# Ignore folder .meta files
+**/*.meta
+*.asset
